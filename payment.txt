@@ -1,0 +1,6 @@
+PAYMENT OPTIONS
+
+1. Cash on Delivery
+2. Credit/Debit Card
+3. UPI
+4. Wallet
