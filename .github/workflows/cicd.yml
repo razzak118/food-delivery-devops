@@ -42,7 +42,6 @@ jobs:
           mkdir -p package
           cp app.py package/
           cp menu.txt package/
-          cp order_validation.txt package/
           cp requirements.txt package/
           zip -r food-delivery-app.zip package/
 
