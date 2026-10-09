@@ -1,0 +1,6 @@
+FOODEXPRESS MENU
+
+1. Burger - Rs. 120
+2. Pizza - Rs. 250
+3. Biryani - Rs. 180
+4. Sandwich - Rs. 100
